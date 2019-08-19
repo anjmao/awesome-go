@@ -1612,7 +1612,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.
 * [Microservice](https://github.com/claygod/microservice) - The framework for the creation of microservices, written in Golang.
 * [neo](https://github.com/ivpusic/neo) - Neo is minimal and fast Go Web Framework with extremely simple API.
-* [nio](https://github.com/go-nio/nio) - Modern, minimal and productive Go HTTP framework.
 * [Resoursea](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 * [REST Layer](http://rest-layer.io) - Framework to build REST/GraphQL API on top of databases with mostly configuration over code.
 * [Revel](https://github.com/revel/revel) - High-productivity web framework for the Go language.
@@ -1665,6 +1664,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [FastRouter](https://github.com/razonyang/fastrouter) - a fast, flexible HTTP router written in Go.
 * [gocraft/web](https://github.com/gocraft/web) - Mux and middleware package in Go.
 * [Goji](https://github.com/goji/goji) - Goji is a minimalistic and flexible HTTP request multiplexer with support for `net/context`.
+* [goroute](https://github.com/goroute/route) - Go Route - Simple yet powerful HTTP request multiplexer.
 * [GoRouter](https://github.com/vardius/gorouter) - GoRouter is a Server/API micro framwework, HTTP request router, multiplexer, mux that provides request router with middleware supporting `net/context`.
 * [gowww/router](https://github.com/gowww/router) - Lightning fast HTTP router fully compatible with the net/http.Handler interface.
 * [httprouter](https://github.com/julienschmidt/httprouter) - High performance router. Use this and the standard http handlers to form a very high performance web framework.
